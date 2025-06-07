@@ -1,0 +1,13 @@
+2025-06-06 16:09:44,534 - Book added: Automic Habits
+2025-06-06 16:19:21,532 - Book added: The Alchemist
+2025-06-06 16:40:18,156 - Book updated: ID 2
+2025-06-06 16:41:27,330 - Book deleted: ID 2
+2025-06-06 17:20:29,245 - Book added: The Alchemist
+2025-06-06 17:21:50,469 - Book updated: ID 3
+2025-06-06 17:22:34,695 - Book deleted: ID 3
+2025-06-07 13:54:27,259 - Book added: string
+2025-06-07 16:53:23,958 - Book added: harry
+2025-06-07 16:54:06,132 - Book added: Harry Potter and the Philosopher's Stone
+2025-06-07 16:54:56,408 - Book updated: ID 3
+2025-06-07 16:55:09,426 - Book updated: ID 2
+2025-06-07 16:55:24,808 - Book deleted: ID 2
